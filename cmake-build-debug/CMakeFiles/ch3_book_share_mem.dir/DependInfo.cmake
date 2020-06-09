@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/d/pro/osc/ch3/book/share_mory_between_threads.c" "/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_book_share_mem.dir/ch3/book/share_mory_between_threads.c.o"
+  "/tmp/tmp.OvVthRjzYw/ch3/book/share_mory_between_threads.c" "/tmp/tmp.OvVthRjzYw/cmake-build-debug/CMakeFiles/ch3_book_share_mem.dir/ch3/book/share_mory_between_threads.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

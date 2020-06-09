@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ch3_project_b_task_information.dir/ch3/project/b/task_inf.cpp.o  -o ch3_project_b_task_information 

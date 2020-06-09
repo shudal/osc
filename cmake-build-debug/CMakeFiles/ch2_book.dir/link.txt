@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ch2_book.dir/ch2/simple.c.o  -o ch2_book 

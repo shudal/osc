@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/d/pro/osc/ch3/book/pipe_example.c" "/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_book_pipe_example.dir/ch3/book/pipe_example.c.o"
+  "/tmp/tmp.OvVthRjzYw/ch3/book/pipe_example.c" "/tmp/tmp.OvVthRjzYw/cmake-build-debug/CMakeFiles/ch3_book_pipe_example.dir/ch3/book/pipe_example.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
