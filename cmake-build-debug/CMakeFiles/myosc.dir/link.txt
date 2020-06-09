@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/myosc.dir/ch3/exercise/3.19.cpp.o CMakeFiles/myosc.dir/ch3/exercise/3.19_v2.cpp.o  -o myosc -lrt 

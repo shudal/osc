@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ch3_book_pipe_example.dir/ch3/book/pipe_example.c.o  -o ch3_book_pipe_example 

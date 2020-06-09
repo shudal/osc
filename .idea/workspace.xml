@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="myosc" targetName="ch3_exercise_3.19" />
+      <config projectName="myosc" targetName="ch3_exercise_3.19_v2" />
+      <config projectName="myosc" targetName="ch3_book_pipe_example" />
+      <config projectName="myosc" targetName="ch3_book_share_mem" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13623c27-9695-4ffa-a146-905b8a7bac85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1d3umDGmw59pzKHU1FhIZ0eIh2e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ch3_exercise_3.19_v2">
+    <configuration name="ch3_book_pipe_example" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myosc" TARGET_NAME="ch3_book_pipe_example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myosc" RUN_TARGET_NAME="ch3_book_pipe_example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch3_book_share_mem" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myosc" TARGET_NAME="ch3_book_share_mem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myosc" RUN_TARGET_NAME="ch3_book_share_mem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch3_exercise_3.19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myosc" TARGET_NAME="ch3_exercise_3.19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myosc" RUN_TARGET_NAME="ch3_exercise_3.19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch3_exercise_3.19_v2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="ls -a" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myosc" TARGET_NAME="ch3_exercise_3.19_v2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myosc" RUN_TARGET_NAME="ch3_exercise_3.19_v2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myosc" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="ls -a" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myosc" TARGET_NAME="myosc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myosc" RUN_TARGET_NAME="myosc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ch3_book_pipe_example" />
+      <item itemvalue="CMake Application.ch3_book_share_mem" />
+      <item itemvalue="CMake Application.ch3_exercise_3.19" />
+      <item itemvalue="CMake Application.ch3_exercise_3.19_v2" />
+      <item itemvalue="CMake Application.myosc" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13623c27-9695-4ffa-a146-905b8a7bac85" name="Default Changelist" comment="" />
+      <created>1591666254356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591666254356</updated>
+      <workItem from="1591666255683" duration="7106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="31" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591672890721">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state x="31" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591672890721" />
+    <state width="1109" height="212" key="GridCell.Tab.0.bottom" timestamp="1591672915628">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="212" key="GridCell.Tab.0.bottom/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591672915628" />
+    <state width="1109" height="212" key="GridCell.Tab.0.center" timestamp="1591672915627">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="212" key="GridCell.Tab.0.center/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591672915627" />
+    <state width="1109" height="212" key="GridCell.Tab.0.left" timestamp="1591672915627">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="212" key="GridCell.Tab.0.left/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591672915627" />
+    <state width="1109" height="212" key="GridCell.Tab.0.right" timestamp="1591672915628">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="212" key="GridCell.Tab.0.right/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591672915628" />
+    <state width="1109" height="204" key="GridCell.Tab.1.bottom" timestamp="1591671598516">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="204" key="GridCell.Tab.1.bottom/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591671598516" />
+    <state width="1109" height="204" key="GridCell.Tab.1.center" timestamp="1591671598516">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="204" key="GridCell.Tab.1.center/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591671598516" />
+    <state width="1109" height="204" key="GridCell.Tab.1.left" timestamp="1591671598516">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="204" key="GridCell.Tab.1.left/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591671598516" />
+    <state width="1109" height="204" key="GridCell.Tab.1.right" timestamp="1591671598516">
+      <screen x="0" y="0" width="1152" height="680" />
+    </state>
+    <state width="1109" height="204" key="GridCell.Tab.1.right/-1920.0.1097.588/0.0.1152.680@0.0.1152.680" timestamp="1591671598516" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch3/exercise/3.19.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch3/exercise/3.19.cpp</url>
+          <line>58</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch3/exercise/3.19.cpp</url>
+          <line>57</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ch3/exercise/3.19.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

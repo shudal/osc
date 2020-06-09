@@ -1,0 +1,6 @@
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_book_pipe_example.dir
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_book_share_mem.dir
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_exercise_3.19.dir
+/mnt/c/d/pro/osc/cmake-build-debug/CMakeFiles/ch3_exercise_3.19_v2.dir

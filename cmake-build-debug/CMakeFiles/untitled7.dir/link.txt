@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled7.dir/ch3/exercise/3.19.cpp.o  -o untitled7 

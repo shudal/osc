@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/d/pro/osc/ch3/book/share_mory_between_threads.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+sys/shm.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+stdlib.h
+-
+

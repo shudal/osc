@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/d/pro/osc/ch3/book/pipe_example.c
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+

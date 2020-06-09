@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ch3_exercise_3.19_v2.dir/ch3/exercise/3.19_v2.cpp.o  -o ch3_exercise_3.19_v2 

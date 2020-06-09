@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/d/pro/osc/ch3/exercise/3.19_v2.cpp
+fcntl.h
+-
+iostream
+-
+memory
+-
+stdio.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+sys/time.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
