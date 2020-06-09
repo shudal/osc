@@ -1,0 +1,1 @@
+cmd_/home/osc/osc/ch3/project/b/taskinf.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/osc/osc/ch3/project/b/taskinf.ko /home/osc/osc/ch3/project/b/taskinf.o /home/osc/osc/ch3/project/b/taskinf.mod.o
